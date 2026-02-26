@@ -1,0 +1,1 @@
+.e-n-tabs{display:flex;flex-direction:column}.e-n-tabs-heading{display:flex;gap:0}.e-n-tab-title{cursor:pointer;padding:10px 20px;border:none;background:transparent}.e-n-tab-title[aria-selected="true"]{font-weight:700}.e-n-tabs-content{width:100%}.e-n-tabs-content>.e-con{display:none}.e-n-tabs-content>.e-con.e-active{display:flex}

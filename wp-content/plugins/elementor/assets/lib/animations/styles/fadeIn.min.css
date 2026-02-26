@@ -1,0 +1,1 @@
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}.animated{animation-duration:1s;animation-fill-mode:both}.animated-slow{animation-duration:2s}.fadeIn{animation-name:fadeIn;animation-duration:1s;animation-timing-function:ease-out}
