@@ -1,2 +1,80 @@
-/* Post 1207 CSS - inline styles are embedded in the HTML */
+/* Elementor CSS for Post 1207 */
 
+.elementor-1207 .elementor-element.elementor-element-f323155 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-1207 .elementor-element.elementor-element-f323155 > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
+.elementor-1207 .elementor-element.elementor-element-acc744a {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-1207 .elementor-element.elementor-element-d9e9f04.elementor-invisible {
+  visibility: hidden;
+}
+@media (max-width: 1024px) {
+  .elementor-1207 .elementor-element.elementor-element-d9e9f04 {
+    width: auto;
+    max-width: initial;
+  }
+}
+.elementor-1207 .elementor-element.elementor-element-46e3208 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-1207 .elementor-element.elementor-element-c00d479 > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-1207 .elementor-element.elementor-element-5044cd82 {
+  width: 100%;
+}
+.elementor-1207 .elementor-element.elementor-element-89d9630 {
+  width: 50%;
+}
+.elementor-1207 .elementor-element.elementor-element-31ab87d4 .elementor-icon-list-items {
+  list-style-type: none;
+}
+.elementor-1207 .elementor-element.elementor-element-572ac83 .elementor-icon-list-items {
+  list-style-type: none;
+}
+.elementor-1207 .elementor-element.elementor-element-fc86319 .elementor-icon-list-items {
+  list-style-type: none;
+}
+.elementor-1207 .elementor-element.elementor-element-5c921f94 {
+  width: 50%;
+}
+.elementor-1207 .elementor-element.elementor-element-599f6241 {
+  width: 50%;
+}
+@media (max-width: 1024px) and (min-width: 768px) {
+  .elementor-1207 .elementor-element.elementor-element-599f6241 {
+    display: none;
+  }
+}
+.elementor-1207 .elementor-element.elementor-element-34f6df69 {
+  width: 50%;
+}
+.elementor-1207 .elementor-element.elementor-element-6294dbf0 {
+  width: 100%;
+}
+.elementor-1207 .elementor-element.elementor-element-7166d895.elementor-invisible {
+  visibility: hidden;
+}
+@media (max-width: 1024px) {
+  .elementor-1207 .elementor-element.elementor-element-7166d895 {
+    width: auto;
+    max-width: initial;
+  }
+}
+.elementor-1207 .elementor-element.elementor-element-fcd6770 .elementor-form {
+  display: flex;
+  flex-wrap: wrap;
+}

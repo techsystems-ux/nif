@@ -1,2 +1,11 @@
-/* Post 1501 CSS - inline styles are embedded in the HTML */
+/* Elementor CSS for Post 1501 */
 
+.elementor-1501 .elementor-element.elementor-element-20a4e930 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-1501 .elementor-element.elementor-element-20a4e930 > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}

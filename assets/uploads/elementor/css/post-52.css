@@ -1,2 +1,45 @@
-/* Post 52 CSS - inline styles are embedded in the HTML */
+/* Elementor CSS for Post 52 */
 
+.elementor-52 .elementor-element.elementor-element-706bdf3 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-52 .elementor-element.elementor-element-706bdf3 > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
+.elementor-52 .elementor-element.elementor-element-264bc59 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-52 .elementor-element.elementor-element-0f7716b.elementor-invisible {
+  visibility: hidden;
+}
+@media (max-width: 1024px) {
+  .elementor-52 .elementor-element.elementor-element-0f7716b {
+    width: auto;
+    max-width: initial;
+  }
+}
+.elementor-52 .elementor-element.elementor-element-682602d {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-52 .elementor-element.elementor-element-785f93a {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-52 .elementor-element.elementor-element-785f93a > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
+.elementor-52 .elementor-element.elementor-element-d34db75 .elementor-carousel-image {
+  background-size: cover;
+  background-position: center center;
+}

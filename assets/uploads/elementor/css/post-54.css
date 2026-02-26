@@ -1,2 +1,50 @@
-/* Post 54 CSS - inline styles are embedded in the HTML */
+/* Elementor CSS for Post 54 */
 
+.elementor-54 .elementor-element.elementor-element-918380d {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-54 .elementor-element.elementor-element-918380d > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
+.elementor-54 .elementor-element.elementor-element-a45903a {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-54 .elementor-element.elementor-element-9bd87cc.elementor-invisible {
+  visibility: hidden;
+}
+@media (max-width: 1024px) {
+  .elementor-54 .elementor-element.elementor-element-9bd87cc {
+    width: auto;
+    max-width: initial;
+  }
+}
+.elementor-54 .elementor-element.elementor-element-49ce899 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-54 .elementor-element.elementor-element-fd0aebe {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-54 .elementor-element.elementor-element-fd0aebe > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
+.elementor-54 .elementor-element.elementor-element-8ed1a47 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-54 .elementor-element.elementor-element-8ed1a47 > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
