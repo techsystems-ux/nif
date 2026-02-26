@@ -1,0 +1,1 @@
+@keyframes e-animation-float{0%{transform:translateY(-5px)}50%{transform:translateY(5px)}100%{transform:translateY(-5px)}}.animated{animation-duration:1s;animation-fill-mode:both}.animated-slow{animation-duration:2s}.e-animation-float{animation-name:e-animation-float;animation-duration:1s;animation-timing-function:ease-out;animation-iteration-count:infinite}

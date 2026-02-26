@@ -1,0 +1,5 @@
+/* Elementor Pro Popup CSS */
+.elementor-popup-modal{position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999;display:flex;align-items:center;justify-content:center}
+.elementor-popup-modal .dialog-widget-content{position:relative;background:#fff;max-width:90vw;max-height:90vh;overflow:auto;border-radius:4px;box-shadow:0 5px 30px rgba(0,0,0,.3)}
+.elementor-popup-modal .dialog-close-button{position:absolute;top:10px;right:10px;cursor:pointer;font-size:20px;background:none;border:none;z-index:1;color:#333}
+.elementor-popup-modal .dialog-overlay{position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.5)}

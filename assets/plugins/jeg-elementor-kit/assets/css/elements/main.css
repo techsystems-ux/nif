@@ -1,0 +1,23 @@
+/* JKit Elementor Kit - Main Elements CSS */
+.jkit-heading{position:relative}
+.jkit-heading .heading-title{margin:0;padding:0}
+.jkit-heading .heading-section-subtitle{font-size:.9em;margin-bottom:5px}
+.jkit-heading .heading-section-description{margin-top:10px}
+.jkit-testimonials{position:relative;overflow:hidden}
+.jkit-testimonials .testimonial-item{padding:20px;text-align:center}
+.jkit-testimonials .testimonial-item .profile-image{width:80px;height:80px;border-radius:50%;margin:0 auto 15px;overflow:hidden}
+.jkit-testimonials .testimonial-item .profile-image img{width:100%;height:100%;object-fit:cover}
+.jkit-testimonials .testimonial-item .testimonial-content{margin-bottom:15px;font-style:italic}
+.jkit-testimonials .testimonial-item .profile-info .profile-name{font-weight:600;margin-bottom:3px}
+.jkit-testimonials .testimonial-item .profile-info .profile-designation{font-size:.85em;opacity:.7}
+.jkit-team{position:relative}
+.jkit-team .profile-card{text-align:center;padding:20px}
+.jkit-team .profile-card .profile-header img{width:100%;height:auto;border-radius:4px}
+.jkit-team .profile-card .profile-body{padding-top:15px}
+.jkit-team .profile-card .profile-title{font-weight:600;margin-bottom:5px}
+.jkit-team .profile-card .profile-designation{font-size:.85em;opacity:.7}
+.jkit-heading .style-color{background-clip:text;-webkit-background-clip:text}
+.jkit-post-block{position:relative}
+.jkit-pagination{display:flex;gap:5px;margin-top:20px}
+.jkit-pagination a,.jkit-pagination span{padding:8px 14px;border:1px solid #ddd;display:inline-flex;align-items:center;justify-content:center;text-decoration:none;transition:all .3s}
+.jkit-pagination .current{background:var(--ast-global-color-0,#046bd2);color:#fff;border-color:var(--ast-global-color-0,#046bd2)}

@@ -1,0 +1,36 @@
+/* Elementor CSS for Post 1214 */
+
+.elementor-1214 .elementor-element.elementor-element-1acde26d {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-1214 .elementor-element.elementor-element-1acde26d > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
+.elementor-1214 .elementor-element.elementor-element-54089154 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-1214 .elementor-element.elementor-element-71fd6c58 .elementor-form {
+  display: flex;
+  flex-wrap: wrap;
+}
+.elementor-1214 .elementor-element.elementor-element-71fd6c58 {
+  width: auto;
+  max-width: initial;
+}
+.elementor-1214 .elementor-element.elementor-element-71960ab7 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+@media (max-width: 767px) {
+  .elementor-1214 .elementor-element.elementor-element-71960ab7 {
+    display: none;
+  }
+}

@@ -1,0 +1,5 @@
+/* Elementor Pro Media Carousel Widget */
+.elementor-widget-media-carousel{position:relative;overflow:hidden}
+.elementor-widget-media-carousel .swiper{overflow:hidden}
+.elementor-widget-media-carousel .swiper-slide{text-align:center}
+.elementor-widget-media-carousel .swiper-slide img{width:100%;height:auto;display:block}

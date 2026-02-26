@@ -1,0 +1,7 @@
+/* Elementor Pro Carousel Module Base */
+.elementor-swiper .swiper{overflow:hidden}
+.elementor-swiper .swiper-wrapper{display:flex;transition-timing-function:ease}
+.elementor-swiper .swiper-slide{flex-shrink:0;position:relative}
+.elementor-swiper .swiper-pagination{text-align:center;margin-top:15px}
+.elementor-swiper .swiper-pagination-bullet{width:8px;height:8px;display:inline-block;border-radius:50%;background:#000;opacity:.2;margin:0 4px;cursor:pointer;transition:opacity .3s}
+.elementor-swiper .swiper-pagination-bullet-active{opacity:1}

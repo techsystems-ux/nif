@@ -1,0 +1,1 @@
+@keyframes fadeInLeft{from{opacity:0;transform:translate3d(-100px,0,0)}to{opacity:1;transform:none}}.animated{animation-duration:1s;animation-fill-mode:both}.animated-slow{animation-duration:2s}.fadeInLeft{animation-name:fadeInLeft;animation-duration:1s;animation-timing-function:ease-out}

@@ -1,0 +1,77 @@
+/* Elementor CSS for Post 531 */
+
+.elementor-531 .elementor-element.elementor-element-d08f149 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-531 .elementor-element.elementor-element-b570eb9 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-531 .elementor-element.elementor-element-b570eb9 > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
+.elementor-531 .elementor-element.elementor-element-08df5e6 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-531 .elementor-element.elementor-element-c69ce32 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-531 .elementor-element.elementor-element-ffcabb0 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-531 .elementor-element.elementor-element-44315a4 .elementor-icon-list-items {
+  list-style-type: none;
+}
+.elementor-531 .elementor-element.elementor-element-8d7d9be {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-531 .elementor-element.elementor-element-14e1248 .elementor-icon-list-items {
+  list-style-type: none;
+}
+.elementor-531 .elementor-element.elementor-element-b35a7d4 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-531 .elementor-element.elementor-element-4afcd2d {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+}
+.elementor-531 .elementor-element.elementor-element-4afcd2d > .e-con-inner {
+  max-width: min(var(--container-max-width, 1140px), 100%);
+  margin-inline: auto;
+}
+.elementor-531 .elementor-element.elementor-element-98e39a7 {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}
+.elementor-531 .elementor-element.elementor-element-988981a .elementor-icon-list-items {
+  list-style-type: none;
+}
+.elementor-531 .elementor-element.elementor-element-a4ecd0d {
+  --display: flex;
+  --flex-direction: column;
+  display: var(--display);
+  --content-width: 100%;
+}

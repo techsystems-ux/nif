@@ -1,0 +1,4 @@
+/* Essential Addons for Elementor - General CSS */
+.eael-element{position:relative}
+.eael-filter-gallery-wrapper{display:flex;flex-wrap:wrap}
+.eael-entry-wrapper{position:relative;overflow:hidden}

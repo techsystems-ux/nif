@@ -1,0 +1,1 @@
+@keyframes fadeInUp{from{opacity:0;transform:translate3d(0,100px,0)}to{opacity:1;transform:none}}.animated{animation-duration:1s;animation-fill-mode:both}.animated-slow{animation-duration:2s}.fadeInUp{animation-name:fadeInUp;animation-duration:1s;animation-timing-function:ease-out}
